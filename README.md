@@ -4,11 +4,11 @@ This is a web based application developed for health related telugu based websit
 
 ### This web based Redefining-Child-Care application has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-*Project Link(Github repository URL) - https://github.com/Aravindsaibakka/Redefining-Child-Care
+  *Project Link(Github repository URL)* - https://github.com/Aravindsaibakka/Redefining-Child-Care
 
-*Project Demo Link* - https://jolly-smoke-044e8f900.2.azurestaticapps.net
+  *Project Demo Link* - https://jolly-smoke-044e8f900.2.azurestaticapps.net
 
-*Project Demo video URL - 
+  *Project Demo video URL** - 
 
 ## Features and Functionalities 😃
 
