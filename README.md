@@ -8,7 +8,7 @@ This is a web based application developed for health related telugu based websit
 
   *Project Demo Link* - https://jolly-smoke-044e8f900.2.azurestaticapps.net
 
-  *Project Demo video URL** - 
+  *Project Demo video URL** - https://youtu.be/BMLNaXjGX5Y
 
 ## Features and Functionalities 😃
 
