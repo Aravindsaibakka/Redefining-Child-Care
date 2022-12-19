@@ -49,7 +49,7 @@ This is a web based application developed for health related telugu based websit
 ![Aravind07](https://user-images.githubusercontent.com/117900459/208378729-66cb980e-956b-4118-b6c8-c007685dbacc.png)
 
 
-## Azure static apps
+## Azure static web App
 ![Aravind08](https://user-images.githubusercontent.com/117900459/208378793-b43339b8-3bbc-4456-959e-b7e8421b396e.png)
 
 
